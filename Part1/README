@@ -1,0 +1,12 @@
+------------------------------------
+PART1
+------------------------------------
+First of all, use terminal to get into the source directory Part1
+
+Make sure that we are in the Part1 directory,
+there is a executable jar file called A2Part1.jar is within the directory 
+We enter the command below to run the jar file 
+
+java -jar A2Part1.jar 
+
+

@@ -1,0 +1,70 @@
+patrickzhang@PatrickdeMBP Part2 % java -jar A2.jar
+Creating initial population
+Mem free: 10.0 MB
+Prototype program set
+Mem free after creating population: 10.0 MB
+Your configuration does not contain unused commands, this is good
+Evolving generation 0, memory free: 7.1 MB
+Best solution fitness: 60.42
+Best solution: (X * X) * (5.0 - X)
+Depth of chrom: 2
+Evolving generation 1, memory free: 5.6 MB
+Evolving generation 2, memory free: 63.1 MB
+Evolving generation 3, memory free: 48.1 MB
+Best solution fitness: 53.24
+Best solution: 1.0 - (((1.0 * 1.0) * (1.0 - X)) * ((1.0 * 2.0) * (X * 2.0)))
+Depth of chrom: 4
+Evolving generation 4, memory free: 62.6 MB
+Evolving generation 5, memory free: 47.6 MB
+Evolving generation 6, memory free: 32.6 MB
+Evolving generation 7, memory free: 54.6 MB
+Best solution fitness: 51.24
+Best solution: (((3.0 - X) * (X * X)) + ((X * X) + ((X * X) - X))) - X
+Depth of chrom: 5
+Evolving generation 8, memory free: 40.1 MB
+Best solution fitness: 48.61
+Best solution: (X * X) * (((X * X) + 5.0) / ((5.0 / (3.0 - X)) / 1.0))
+Depth of chrom: 5
+Evolving generation 9, memory free: 64.5 MB
+Evolving generation 10, memory free: 50.0 MB
+Evolving generation 11, memory free: 35.0 MB
+Evolving generation 12, memory free: 103.4 MB
+Evolving generation 13, memory free: 88.4 MB
+Evolving generation 14, memory free: 72.9 MB
+Evolving generation 15, memory free: 57.9 MB
+Best solution fitness: 20.00
+Best solution: ((X * X) - X) * ((X * X) - X)
+Depth of chrom: 3
+Evolving generation 16, memory free: 106.9 MB
+Evolving generation 17, memory free: 91.9 MB
+Evolving generation 18, memory free: 76.9 MB
+Evolving generation 19, memory free: 61.9 MB
+Evolving generation 20, memory free: 46.9 MB
+Evolving generation 21, memory free: 98.0 MB
+Evolving generation 22, memory free: 83.0 MB
+Evolving generation 23, memory free: 68.0 MB
+Evolving generation 24, memory free: 53.0 MB
+Evolving generation 25, memory free: 104.4 MB
+Evolving generation 26, memory free: 88.9 MB
+Evolving generation 27, memory free: 73.9 MB
+Evolving generation 28, memory free: 59.4 MB
+Evolving generation 29, memory free: 44.4 MB
+Evolving generation 30, memory free: 136.6 MB
+Evolving generation 31, memory free: 121.1 MB
+Evolving generation 32, memory free: 106.6 MB
+Evolving generation 33, memory free: 91.6 MB
+Evolving generation 34, memory free: 76.6 MB
+Evolving generation 35, memory free: 61.6 MB
+Evolving generation 36, memory free: 138.6 MB
+Evolving generation 37, memory free: 123.6 MB
+Evolving generation 38, memory free: 108.6 MB
+Evolving generation 39, memory free: 93.6 MB
+Evolving generation 40, memory free: 78.6 MB
+Best solution fitness: 0.0
+Best solution: ((((X * X) + (1.0 - X)) - X) * (X * X)) + ((1.0 + X) - X)
+Depth of chrom: 5
+Formula to discover:
+Best solution fitness: 0.0
+Best solution: ((((X * X) + (1.0 - X)) - X) * (X * X)) + ((1.0 + X) - X)
+Depth of chrom: 5
+patrickzhang@PatrickdeMBP Part2 % 
